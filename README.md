@@ -1,1 +1,6 @@
 # ArduinoMultipleAnalogReader
+
+
+
+Inspired by:
+
